@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Narendrareddygali/Summer_pep/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Narendrareddygali/Summer_pep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Narendrareddygali/Summer_pep/tree/master/0239-sliding-window-maximum) |
+| [0704-binary-search](https://github.com/Narendrareddygali/Summer_pep/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Narendrareddygali/Summer_pep/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Narendrareddygali/Summer_pep/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Narendrareddygali/Summer_pep/tree/master/0205-isomorphic-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Narendrareddygali/Summer_pep/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
