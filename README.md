@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Narendrareddygali/Summer_pep/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Narendrareddygali/Summer_pep/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Narendrareddygali/Summer_pep/tree/master/0907-sum-of-subarray-minimums) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Narendrareddygali/Summer_pep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Narendrareddygali/Summer_pep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Narendrareddygali/Summer_pep/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Narendrareddygali/Summer_pep/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Narendrareddygali/Summer_pep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
