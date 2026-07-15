@@ -106,4 +106,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/Narendrareddygali/Summer_pep/tree/master/1552-magnetic-force-between-two-balls) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
