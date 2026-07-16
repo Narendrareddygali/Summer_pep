@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Narendrareddygali/Summer_pep/tree/master/0205-isomorphic-strings) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Narendrareddygali/Summer_pep/tree/master/1552-magnetic-force-between-two-balls) |
 ## Tree
 |  |
@@ -113,17 +115,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Narendrareddygali/Summer_pep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Narendrareddygali/Summer_pep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Narendrareddygali/Summer_pep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Narendrareddygali/Summer_pep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -131,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Narendrareddygali/Summer_pep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Narendrareddygali/Summer_pep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
