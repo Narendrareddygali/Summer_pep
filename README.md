@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Narendrareddygali/Summer_pep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Narendrareddygali/Summer_pep/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Narendrareddygali/Summer_pep/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Narendrareddygali/Summer_pep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Narendrareddygali/Summer_pep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/Narendrareddygali/Summer_pep/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Narendrareddygali/Summer_pep/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Narendrareddygali/Summer_pep/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Narendrareddygali/Summer_pep/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Narendrareddygali/Summer_pep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Narendrareddygali/Summer_pep/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Narendrareddygali/Summer_pep/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Narendrareddygali/Summer_pep/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Narendrareddygali/Summer_pep/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Narendrareddygali/Summer_pep/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Narendrareddygali/Summer_pep/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Narendrareddygali/Summer_pep/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Narendrareddygali/Summer_pep/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Narendrareddygali/Summer_pep/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Narendrareddygali/Summer_pep/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
