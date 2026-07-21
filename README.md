@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Narendrareddygali/Summer_pep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Narendrareddygali/Summer_pep/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Narendrareddygali/Summer_pep/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/Narendrareddygali/Summer_pep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Narendrareddygali/Summer_pep/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/Narendrareddygali/Summer_pep/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Narendrareddygali/Summer_pep/tree/master/0735-asteroid-collision) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Narendrareddygali/Summer_pep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Narendrareddygali/Summer_pep/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Narendrareddygali/Summer_pep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Narendrareddygali/Summer_pep/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Narendrareddygali/Summer_pep/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Narendrareddygali/Summer_pep/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Narendrareddygali/Summer_pep/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Narendrareddygali/Summer_pep/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Narendrareddygali/Summer_pep/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Narendrareddygali/Summer_pep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Narendrareddygali/Summer_pep/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Narendrareddygali/Summer_pep/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Narendrareddygali/Summer_pep/tree/master/0860-lemonade-change) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Narendrareddygali/Summer_pep/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/Narendrareddygali/Summer_pep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Narendrareddygali/Summer_pep/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Narendrareddygali/Summer_pep/tree/master/1552-magnetic-force-between-two-balls) |
