@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Narendrareddygali/Summer_pep/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Narendrareddygali/Summer_pep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Narendrareddygali/Summer_pep/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/Narendrareddygali/Summer_pep/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Narendrareddygali/Summer_pep/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Narendrareddygali/Summer_pep/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Narendrareddygali/Summer_pep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Narendrareddygali/Summer_pep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Narendrareddygali/Summer_pep/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/Narendrareddygali/Summer_pep/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Narendrareddygali/Summer_pep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Narendrareddygali/Summer_pep/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Narendrareddygali/Summer_pep/tree/master/0542-01-matrix) |
