@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Narendrareddygali/Summer_pep/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Narendrareddygali/Summer_pep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Narendrareddygali/Summer_pep/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Narendrareddygali/Summer_pep/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Narendrareddygali/Summer_pep/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Narendrareddygali/Summer_pep/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Narendrareddygali/Summer_pep/tree/master/0300-longest-increasing-subsequence) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Narendrareddygali/Summer_pep/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Narendrareddygali/Summer_pep/tree/master/0205-isomorphic-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Narendrareddygali/Summer_pep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Narendrareddygali/Summer_pep/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Narendrareddygali/Summer_pep/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Narendrareddygali/Summer_pep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Narendrareddygali/Summer_pep/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Narendrareddygali/Summer_pep/tree/master/0611-valid-triangle-number) |
@@ -290,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Narendrareddygali/Summer_pep/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Narendrareddygali/Summer_pep/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Narendrareddygali/Summer_pep/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
