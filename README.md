@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Narendrareddygali/Summer_pep/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Narendrareddygali/Summer_pep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Narendrareddygali/Summer_pep/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Narendrareddygali/Summer_pep/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Narendrareddygali/Summer_pep/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/Narendrareddygali/Summer_pep/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Narendrareddygali/Summer_pep/tree/master/0704-binary-search) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Narendrareddygali/Summer_pep/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Narendrareddygali/Summer_pep/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Narendrareddygali/Summer_pep/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Narendrareddygali/Summer_pep/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Narendrareddygali/Summer_pep/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Narendrareddygali/Summer_pep/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Narendrareddygali/Summer_pep/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -302,4 +304,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Narendrareddygali/Summer_pep/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Narendrareddygali/Summer_pep/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Narendrareddygali/Summer_pep/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Narendrareddygali/Summer_pep/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
